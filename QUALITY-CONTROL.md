@@ -36,3 +36,7 @@ Gesture reveals and the hand-sweep screen change use manually synchronized keyfr
 ## Scope of verification
 
 Visual sampling, full decoding, numerical audio analysis, source transcription comparison and final-mix speech recognition were performed. This does not constitute a human real-time listening session or Fiverr platform approval. Download delivery depends on the host application's file-link support; local file integrity is verified independently. SHA-256 checksums and detailed measurements are in `review/render-qc.json`.
+
+## Centre-origin text revision validation
+
+The workflow overlay now reveals from the middle. Full-frame decoded hashes confirm all 1515 frames outside the 34.000–41.500-second workflow shot are identical to the preceding approved video. The AAC audio bitstream is identical. The revised export still contains 1740 frames, passes full decoding and retains the same duration and codecs. Original video packets outside the changed shot were preserved without re-encoding. The implementation changes only the workflow text container's positioning and reveal animation.

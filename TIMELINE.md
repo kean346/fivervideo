@@ -36,3 +36,7 @@ Recognition was compared across Whisper small.en and medium.en. The medium.en tr
 The four original PNGs replace all low-resolution thumbnail crops in the final timeline. Flow and Northstar are labelled demonstrations. Workflow sequences describe automation opportunities, not delivered integrations. No invented statistics, clients, results, or external contact information are added.
 
 The actual paceIT and Flow recordings supply moving portfolio content. SAFT uses its original screenshot and its appearance in the paceIT recording; no separate SAFT screen recording is fabricated. Music and transition effects are synthesized from the included scripts rather than copied from third-party recordings. Speech has an 80 Hz high-pass, conservative denoising, loudness processing and the original timing.
+
+## Centre-origin text revision
+
+The workflow text overlay in camera 4 is now horizontally centred and reveals outward from its centre between 35.000 and 36.167 seconds, following the hand movement. Wording, caption text/timing, audio, footage order, duration and other visual elements are unchanged. The revised exports preserve original encoded packets outside the 34.000–41.500-second workflow shot.
