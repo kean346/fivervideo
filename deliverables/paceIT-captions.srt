@@ -1,0 +1,91 @@
+1
+00:00:00,167 --> 00:00:01,967
+Hi, I'm Kean,
+
+2
+00:00:02,167 --> 00:00:03,100
+founder of paceIT,
+
+3
+00:00:03,400 --> 00:00:04,367
+and I build technology
+
+4
+00:00:04,367 --> 00:00:06,300
+that helps businesses work smarter.
+
+5
+00:00:08,133 --> 00:00:10,267
+From professional business websites,
+
+6
+00:00:10,667 --> 00:00:11,933
+to systems that are tailored
+
+7
+00:00:11,933 --> 00:00:13,067
+to your business's needs,
+
+8
+00:00:13,333 --> 00:00:14,133
+I build experiences
+
+9
+00:00:14,133 --> 00:00:15,900
+that are fun and easy to use.
+
+10
+00:00:20,000 --> 00:00:22,000
+I also create custom dashboards
+
+11
+00:00:22,000 --> 00:00:23,367
+and management tools
+
+12
+00:00:23,367 --> 00:00:25,100
+for customers, quotations
+
+13
+00:00:25,100 --> 00:00:26,700
+and clear reporting.
+
+14
+00:00:34,167 --> 00:00:35,767
+And when repetitive tasks
+
+15
+00:00:35,767 --> 00:00:36,567
+get in the way,
+
+16
+00:00:36,867 --> 00:00:38,033
+I can design workflows
+
+17
+00:00:38,033 --> 00:00:39,400
+that simplify tracking,
+
+18
+00:00:39,767 --> 00:00:41,167
+updates and follow-ups.
+
+19
+00:00:47,267 --> 00:00:49,000
+Whether your business needs a website,
+
+20
+00:00:49,300 --> 00:00:50,067
+a custom system
+
+21
+00:00:50,067 --> 00:00:51,500
+or a smarter process,
+
+22
+00:00:51,900 --> 00:00:53,133
+message me and let's discuss
+
+23
+00:00:53,133 --> 00:00:54,033
+your business needs.

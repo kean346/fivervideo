@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "fromFrame": 0,
+    "duration": 194,
+    "trim": 42
+  },
+  {
+    "id": 2,
+    "fromFrame": 240,
+    "duration": 240,
+    "trim": 18
+  },
+  {
+    "id": 3,
+    "fromFrame": 600,
+    "duration": 218,
+    "trim": 25
+  },
+  {
+    "id": 4,
+    "fromFrame": 1020,
+    "duration": 225,
+    "trim": 20
+  },
+  {
+    "id": 5,
+    "fromFrame": 1410,
+    "duration": 219,
+    "trim": 14
+  }
+]

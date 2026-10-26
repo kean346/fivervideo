@@ -1,0 +1,37 @@
+{
+  "name": "fivervideo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "preview": "remotion render src/index.ts PaceIT deliverables/paceIT-preview-final.mp4 --browser-executable=/usr/bin/chromium --scale=0.5 --concurrency=2",
+    "render": "remotion render src/index.ts PaceIT deliverables/paceIT-1080p.mp4 --browser-executable=/usr/bin/chromium --concurrency=2 --crf=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kean346/fivervideo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kean346/fivervideo/issues"
+  },
+  "homepage": "https://github.com/kean346/fivervideo#readme",
+  "dependencies": {
+    "@remotion/bundler": "4.0.538",
+    "@remotion/cli": "4.0.538",
+    "@remotion/renderer": "4.0.538",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.538"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "typescript": "7.0.2"
+  }
+}
